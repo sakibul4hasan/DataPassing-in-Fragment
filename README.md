@@ -41,4 +41,4 @@ if (bundle != null) {
 
 
 
-Remember to replace R.id.fragment_container with the actual ID of the container where your fragments are being displayed.
+Remember to replace `R.id.fragment_container` with the actual ID of the container where your fragments are being displayed.
